@@ -1,0 +1,30 @@
+评价日期：Mon Feb 28 18:16:16 2022
+dice:0.755,std:0.198,miou:0.453,std:0.380,fps:181.910,epoch:  0.
+Acc:0.506,Precision:0.192,Recall:0.247,F1:0.184
+评价日期：Mon Feb 28 18:28:39 2022
+dice:0.795,std:0.179,miou:0.518,std:0.353,fps:182.828,epoch:  1.
+Acc:0.532,Precision:0.382,Recall:0.260,F1:0.191
+评价日期：Mon Feb 28 18:41:05 2022
+dice:0.793,std:0.177,miou:0.508,std:0.329,fps:182.638,epoch:  2.
+Acc:0.522,Precision:0.380,Recall:0.251,F1:0.173
+评价日期：Mon Feb 28 18:53:29 2022
+dice:0.804,std:0.177,miou:0.532,std:0.336,fps:183.067,epoch:  3.
+Acc:0.579,Precision:0.388,Recall:0.297,F1:0.258
+评价日期：Mon Feb 28 19:05:54 2022
+dice:0.807,std:0.177,miou:0.541,std:0.348,fps:182.730,epoch:  4.
+Acc:0.599,Precision:0.377,Recall:0.315,F1:0.284
+评价日期：Mon Feb 28 19:18:17 2022
+dice:0.810,std:0.176,miou:0.544,std:0.335,fps:183.239,epoch:  5.
+Acc:0.579,Precision:0.388,Recall:0.297,F1:0.258
+评价日期：Mon Feb 28 19:30:42 2022
+dice:0.813,std:0.176,miou:0.553,std:0.341,fps:182.699,epoch:  6.
+Acc:0.643,Precision:0.383,Recall:0.352,F1:0.331
+评价日期：Mon Feb 28 19:43:07 2022
+dice:0.812,std:0.177,miou:0.550,std:0.342,fps:181.856,epoch:  7.
+Acc:0.645,Precision:0.381,Recall:0.353,F1:0.332
+评价日期：Mon Feb 28 19:55:32 2022
+dice:0.811,std:0.177,miou:0.551,std:0.346,fps:182.699,epoch:  8.
+Acc:0.645,Precision:0.379,Recall:0.353,F1:0.331
+评价日期：Mon Feb 28 20:07:55 2022
+dice:0.815,std:0.176,miou:0.556,std:0.343,fps:181.463,epoch:  9.
+Acc:0.629,Precision:0.381,Recall:0.340,F1:0.316
